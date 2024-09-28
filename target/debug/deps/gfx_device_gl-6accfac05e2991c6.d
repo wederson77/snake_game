@@ -1,0 +1,11 @@
+C:\Users\wende\OneDrive\Desktop\snake_game\target\debug\deps\libgfx_device_gl-6accfac05e2991c6.rmeta: C:\Users\wende\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gfx_device_gl-0.14.6\src\lib.rs C:\Users\wende\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gfx_device_gl-0.14.6\src\command.rs C:\Users\wende\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gfx_device_gl-0.14.6\src\factory.rs C:\Users\wende\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gfx_device_gl-0.14.6\src\info.rs C:\Users\wende\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gfx_device_gl-0.14.6\src\shade.rs C:\Users\wende\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gfx_device_gl-0.14.6\src\state.rs C:\Users\wende\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gfx_device_gl-0.14.6\src\tex.rs
+
+C:\Users\wende\OneDrive\Desktop\snake_game\target\debug\deps\gfx_device_gl-6accfac05e2991c6.d: C:\Users\wende\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gfx_device_gl-0.14.6\src\lib.rs C:\Users\wende\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gfx_device_gl-0.14.6\src\command.rs C:\Users\wende\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gfx_device_gl-0.14.6\src\factory.rs C:\Users\wende\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gfx_device_gl-0.14.6\src\info.rs C:\Users\wende\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gfx_device_gl-0.14.6\src\shade.rs C:\Users\wende\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gfx_device_gl-0.14.6\src\state.rs C:\Users\wende\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gfx_device_gl-0.14.6\src\tex.rs
+
+C:\Users\wende\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gfx_device_gl-0.14.6\src\lib.rs:
+C:\Users\wende\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gfx_device_gl-0.14.6\src\command.rs:
+C:\Users\wende\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gfx_device_gl-0.14.6\src\factory.rs:
+C:\Users\wende\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gfx_device_gl-0.14.6\src\info.rs:
+C:\Users\wende\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gfx_device_gl-0.14.6\src\shade.rs:
+C:\Users\wende\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gfx_device_gl-0.14.6\src\state.rs:
+C:\Users\wende\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gfx_device_gl-0.14.6\src\tex.rs:

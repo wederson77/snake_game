@@ -1,0 +1,11 @@
+C:\Users\wende\OneDrive\Desktop\snake_game\target\debug\deps\libarrayvec-c9156230bf53662f.rmeta: C:\Users\wende\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.4.12\src\lib.rs C:\Users\wende\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.4.12\src\maybe_uninit_stable.rs C:\Users\wende\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.4.12\src\array.rs C:\Users\wende\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.4.12\src\array_string.rs C:\Users\wende\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.4.12\src\char.rs C:\Users\wende\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.4.12\src\range.rs C:\Users\wende\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.4.12\src\errors.rs
+
+C:\Users\wende\OneDrive\Desktop\snake_game\target\debug\deps\arrayvec-c9156230bf53662f.d: C:\Users\wende\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.4.12\src\lib.rs C:\Users\wende\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.4.12\src\maybe_uninit_stable.rs C:\Users\wende\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.4.12\src\array.rs C:\Users\wende\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.4.12\src\array_string.rs C:\Users\wende\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.4.12\src\char.rs C:\Users\wende\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.4.12\src\range.rs C:\Users\wende\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.4.12\src\errors.rs
+
+C:\Users\wende\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.4.12\src\lib.rs:
+C:\Users\wende\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.4.12\src\maybe_uninit_stable.rs:
+C:\Users\wende\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.4.12\src\array.rs:
+C:\Users\wende\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.4.12\src\array_string.rs:
+C:\Users\wende\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.4.12\src\char.rs:
+C:\Users\wende\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.4.12\src\range.rs:
+C:\Users\wende\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.4.12\src\errors.rs:
